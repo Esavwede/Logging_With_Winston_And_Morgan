@@ -1,0 +1,20 @@
+{
+  "name": "logging",
+  "version": "1.0.0",
+  "description": "This is a simple space to learn and practice logging in javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "logging",
+    "morgan",
+    "winston"
+  ],
+  "author": "Esavwede Ogagaoghene Emmanuel",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.10.0",
+    "winston": "^3.7.2"
+  }
+}
